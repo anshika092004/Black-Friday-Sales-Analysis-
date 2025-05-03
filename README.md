@@ -19,7 +19,7 @@ This project analyzes Black Friday sales data to uncover key trends in consumer 
 - Used DAX formulas to implement ranking logic and dynamic filtering for better insights
 
 # 🔗 Dataset
-The Dataset used for this project is available on Kaggle:  
+The Dataset used for this project is available on **Kaggle** :      
 📎yassermessahli/black-friday-sales
 
 ## 📌 Key Recommendations
