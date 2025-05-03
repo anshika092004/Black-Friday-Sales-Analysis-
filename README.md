@@ -6,4 +6,7 @@ This project analyzes Black Friday sales data to uncover key trends in consumer 
 * Python – For data cleaning, preprocessing, and trend analysis
 * Power BI – For building interactive dashboards and visualizing key insights
 * (Planned) SQL – To be used for advanced querying and data extraction in future updates
+# 🔗 Dataset
+The Dataset used for this project is available on Kaggle:
+📎yassermessahli/black-friday-sales
 
